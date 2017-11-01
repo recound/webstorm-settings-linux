@@ -1,0 +1,6 @@
+<application>
+  <component name="UmlConfiguration">
+    <option name="defaultScope" value="Project Files" />
+    <option name="layout" value="BALLOON" />
+  </component>
+</application>
