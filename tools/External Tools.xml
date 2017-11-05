@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="eslint FIX" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="./node_modules/.bin/eslint" />
+      <option name="PARAMETERS" value="--fix ." />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
