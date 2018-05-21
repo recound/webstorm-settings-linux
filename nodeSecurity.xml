@@ -90,6 +90,7 @@
           <value>
             <list>
               <Advisory />
+              <Advisory />
             </list>
           </value>
         </entry>
@@ -156,6 +157,13 @@
             </list>
           </value>
         </entry>
+        <entry key="atob">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="atom-node-module-installer">
           <value>
             <list>
@@ -192,6 +200,20 @@
           </value>
         </entry>
         <entry key="baryton-saxophone">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="base64-url">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="base64url">
           <value>
             <list>
               <Advisory />
@@ -283,6 +305,20 @@
           </value>
         </entry>
         <entry key="broccoli-closure">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="buttle">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="byte">
           <value>
             <list>
               <Advisory />
@@ -401,6 +437,13 @@
             </list>
           </value>
         </entry>
+        <entry key="cloudcmd">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="cloudpub-redis">
           <value>
             <list>
@@ -464,6 +507,13 @@
             </list>
           </value>
         </entry>
+        <entry key="command-exists">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="commentapp.stetsonwood">
           <value>
             <list>
@@ -472,6 +522,13 @@
           </value>
         </entry>
         <entry key="concat-stream">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="concat-with-sourcemaps">
           <value>
             <list>
               <Advisory />
@@ -951,6 +1008,13 @@
             </list>
           </value>
         </entry>
+        <entry key="foreman">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="forms">
           <value>
             <list>
@@ -980,6 +1044,13 @@
           </value>
         </entry>
         <entry key="fs-git">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="fs-path">
           <value>
             <list>
               <Advisory />
@@ -1057,6 +1128,13 @@
           </value>
         </entry>
         <entry key="getcityapi.yoehoehne">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="getcookies">
           <value>
             <list>
               <Advisory />
@@ -1297,6 +1375,13 @@
           <value>
             <list>
               <Advisory />
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="html-pages">
+          <value>
+            <list>
               <Advisory />
             </list>
           </value>
@@ -1676,6 +1761,13 @@
             </list>
           </value>
         </entry>
+        <entry key="ladder-text-js">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="ldapauth">
           <value>
             <list>
@@ -1771,6 +1863,7 @@
           <value>
             <list>
               <Advisory />
+              <Advisory />
             </list>
           </value>
         </entry>
@@ -1810,6 +1903,13 @@
           </value>
         </entry>
         <entry key="macaca-chromedriver-zxa">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="macaddress">
           <value>
             <list>
               <Advisory />
@@ -1860,6 +1960,13 @@
           <value>
             <list>
               <Advisory />
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="mcstatic">
+          <value>
+            <list>
               <Advisory />
             </list>
           </value>
@@ -2329,6 +2436,13 @@
             </list>
           </value>
         </entry>
+        <entry key="nothing-js">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="npm">
           <value>
             <list>
@@ -2345,6 +2459,13 @@
           </value>
         </entry>
         <entry key="npm-test-sqlite3-trunk">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="npmconf">
           <value>
             <list>
               <Advisory />
@@ -2373,6 +2494,13 @@
           </value>
         </entry>
         <entry key="nw-with-arm">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="open">
           <value>
             <list>
               <Advisory />
@@ -2457,6 +2585,13 @@
           </value>
         </entry>
         <entry key="paypal-ipn">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="pdfinfojs">
           <value>
             <list>
               <Advisory />
@@ -2640,6 +2775,13 @@
             </list>
           </value>
         </entry>
+        <entry key="query-mysql">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="quickserver">
           <value>
             <list>
@@ -2654,7 +2796,21 @@
             </list>
           </value>
         </entry>
+        <entry key="react-marked-markdown">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="react-native-baidu-voice-synthesizer">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="react-svg">
           <value>
             <list>
               <Advisory />
@@ -2733,6 +2889,13 @@
           </value>
         </entry>
         <entry key="restify">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="rgb2hex">
           <value>
             <list>
               <Advisory />
@@ -3161,6 +3324,13 @@
             </list>
           </value>
         </entry>
+        <entry key="sql">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="sqlite.js">
           <value>
             <list>
@@ -3260,6 +3430,13 @@
             </list>
           </value>
         </entry>
+        <entry key="stringstream">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="summit">
           <value>
             <list>
@@ -3268,6 +3445,13 @@
           </value>
         </entry>
         <entry key="superagent">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="superstatic">
           <value>
             <list>
               <Advisory />
