@@ -2248,6 +2248,13 @@
             </list>
           </value>
         </entry>
+        <entry key="njwt">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="no-case">
           <value>
             <list>
@@ -3669,6 +3676,13 @@
           </value>
         </entry>
         <entry key="uri-js">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="url-parse">
           <value>
             <list>
               <Advisory />
