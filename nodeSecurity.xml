@@ -44,6 +44,20 @@
             </list>
           </value>
         </entry>
+        <entry key="adm-zip">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="aedes">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="aegir">
           <value>
             <list>
@@ -3669,6 +3683,13 @@
           </value>
         </entry>
         <entry key="unicorn-list">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="unzipper">
           <value>
             <list>
               <Advisory />
