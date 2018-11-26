@@ -20,7 +20,11 @@
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="meta alt semicolon" />
   </action>
+  <action id="PinActiveTab">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="ctrl meta h" />
   </action>
+  <action id="Vcs.UpdateProject" />
 </keymap>
