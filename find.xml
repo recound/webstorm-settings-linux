@@ -5,7 +5,7 @@
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.log,!*.json,!*.lock,!*.svg,!*.html" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,7 +17,7 @@
     <mask>*.styl</mask>
     <mask>*.scss</mask>
     <mask>!*.log,!*.json,!*.lock</mask>
-    <mask>*.js</mask>
     <mask>!*.log,!*.json,!*.lock,!*.svg,!*.html</mask>
+    <mask>*.js</mask>
   </component>
 </application>
