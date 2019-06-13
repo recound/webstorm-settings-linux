@@ -3,6 +3,10 @@
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateGitHubPullRequestsToolWindow">
+    <keyboard-shortcut first-keystroke="meta 7" />
+  </action>
+  <action id="ActivateStructureToolWindow" />
   <action id="ActivatenpmToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
