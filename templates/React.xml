@@ -3,4 +3,11 @@
     <variable name="TM_FILENAME_BASE" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="props" value="const { $PROPS$ } = this.props" description="Access component's props" toReformat="true" toShortenFQNames="true">
+    <variable name="PROPS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="state" value="const { $END$ } = this.state" description="Access component's state" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
 </templateSet>
