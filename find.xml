@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Default Changelist" />
-    <option name="defaultScopeName" value="Default Changelist" />
-    <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="customScope" value="File '.../src/ggApp/shared/components/product/imageGallery/index.js [frontshop]'" />
+    <option name="defaultScopeName" value="File '.../src/ggApp/shared/components/product/imageGallery/index.js [frontshop]'" />
+    <option name="SEARCH_SCOPE" value="File '.../src/ggApp/shared/components/product/imageGallery/index.js [frontshop]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
