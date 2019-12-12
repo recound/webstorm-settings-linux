@@ -28,6 +28,9 @@
   <action id="Git.CompareWithBranch">
     <keyboard-shortcut first-keystroke="ctrl meta c" />
   </action>
+  <action id="IlluminatedCloud.SaveAll">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="meta alt semicolon" />
   </action>
@@ -41,6 +44,7 @@
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
+  <action id="SaveAll" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift ctrl numpad7" />
   </action>

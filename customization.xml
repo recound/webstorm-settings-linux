@@ -1,5 +1,16 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="SaveAll" is_action="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="File" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SaveAll" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Vcs.UpdateProject" is_action="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Touch Bar" />
@@ -33,6 +44,11 @@
       <path value="Default with Alt key" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="IlluminatedCloud.SaveAll" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group seperator="true" action_type="1" position="3">
       <path value="root" />
       <path value="Touch Bar" />
@@ -45,6 +61,12 @@
       <path value="Touch Bar" />
       <path value="Default" />
       <path value="Default with Alt key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="IlluminatedCloud.SaveAll" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="File" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="NewJavaScriptFile" is_action="true" action_type="1" position="6">
