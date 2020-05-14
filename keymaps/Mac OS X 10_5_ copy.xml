@@ -10,6 +10,10 @@
   <action id="ActivatenpmToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
+  <action id="ClassNameCompletion" />
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift meta slash" />
+  </action>
   <action id="CopyPaths" />
   <action id="CopyReferencePopup">
     <keyboard-shortcut first-keystroke="shift meta c" />
@@ -48,9 +52,13 @@
   <action id="PinActiveTab">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
+  <action id="RestoreDefaultLayout" />
   <action id="SaveAll" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift ctrl numpad7" />
@@ -58,6 +66,7 @@
   <action id="UnsplitAll">
     <keyboard-shortcut first-keystroke="shift ctrl numpad9" />
   </action>
+  <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="ctrl meta h" />
   </action>
