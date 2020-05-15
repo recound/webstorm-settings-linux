@@ -44,9 +44,6 @@
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="IMPORT_USE_NODE_RESOLUTION" value="GLOBAL" />
   </TypeScriptCodeStyleSettings>
-  <editorconfig>
-    <option name="ENABLED" value="false" />
-  </editorconfig>
   <codeStyleSettings language="JavaScript">
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="CALL_PARAMETERS_WRAP" value="1" />
