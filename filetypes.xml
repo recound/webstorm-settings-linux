@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".browser.env.template" type=".env file" />
       <mapping ext="deployment" type="Dockerfile" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".languageChoice" type="PLAIN_TEXT" />
