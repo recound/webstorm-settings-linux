@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../packages/playground/src/query/sync-with-legacy-db.js'" />
-    <option name="defaultScopeName" value="File '.../packages/playground/src/query/sync-with-legacy-db.js'" />
-    <option name="SEARCH_SCOPE" value="File '.../packages/playground/src/query/sync-with-legacy-db.js'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
