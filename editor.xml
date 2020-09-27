@@ -1,39 +1,10 @@
 <application>
-  <component name="CodeFoldingSettings">
-    <option name="COLLAPSE_IMPORTS" value="false" />
-  </component>
-  <component name="CodeInsightSettings">
-    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
-  </component>
-  <component name="DefaultFont">
-    <option name="FONT_SIZE" value="18" />
-  </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
   </component>
-  <component name="InlayHintsSettings">
-    <option name="disabledLanguages">
-      <set>
-        <option value="Vue" />
-      </set>
-    </option>
-    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
-    <settingsMapElement>
-      <JavaScript.js.type.hints>
-        <Settings>
-          <option name="showForFunctions" value="true" />
-          <option name="showForShorthandFunctions" value="true" />
-          <option name="showForVariablesAndFields" value="true" />
-        </Settings>
-      </JavaScript.js.type.hints>
-    </settingsMapElement>
-  </component>
-  <component name="JSEditorOptions">
-    <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
-  </component>
-  <component name="XmlFoldingSettings">
-    <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
   </component>
 </application>
