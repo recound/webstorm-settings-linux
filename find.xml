@@ -18,5 +18,6 @@
     <mask>*.js</mask>
     <mask>*.ts,*.tsx</mask>
     <mask>*.spec.ts</mask>
+    <mask>*.ts</mask>
   </component>
 </application>

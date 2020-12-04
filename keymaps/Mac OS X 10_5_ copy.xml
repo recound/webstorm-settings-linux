@@ -60,8 +60,20 @@
   </action>
   <action id="RestoreDefaultLayout" />
   <action id="SaveAll" />
+  <action id="ScrollPane-scrollHome">
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="SearchEverywhere.NavigateToPrevGroup">
+    <keyboard-shortcut first-keystroke="page_up" />
+  </action>
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="alt home" />
+  </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift ctrl numpad7" />
+  </action>
+  <action id="StringManipulation.ToPascalCaseOrCamelCase">
+    <keyboard-shortcut first-keystroke="shift ctrl close_bracket" />
   </action>
   <action id="UnsplitAll">
     <keyboard-shortcut first-keystroke="shift ctrl numpad9" />
@@ -71,4 +83,7 @@
     <keyboard-shortcut first-keystroke="ctrl meta h" />
   </action>
   <action id="Vcs.UpdateProject" />
+  <action id="osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction">
+    <keyboard-shortcut first-keystroke="shift ctrl open_bracket" />
+  </action>
 </keymap>
