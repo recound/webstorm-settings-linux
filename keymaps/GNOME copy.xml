@@ -1,0 +1,6 @@
+<keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
+  </action>
+  <action id="ResizeToolWindowLeft" />
+</keymap>
