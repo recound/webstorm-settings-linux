@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".browser.env.template" type=".env file" />
       <mapping ext="deployment" type="Dockerfile" />
+      <mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern="working_output" type="PLAIN_TEXT" />
       <mapping pattern="broken_output" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
