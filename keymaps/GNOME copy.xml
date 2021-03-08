@@ -2,5 +2,13 @@
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
   </action>
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="NextOccurence" />
+  <action id="PreviousOccurence" />
   <action id="ResizeToolWindowLeft" />
 </keymap>
