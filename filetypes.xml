@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern=".browser.env.template" type=".env file" />
+      <mapping pattern="Caddyfile" type="AUTO_DETECTED" />
       <mapping ext="deployment" type="Dockerfile" />
       <mapping pattern="working_output" type="PLAIN_TEXT" />
       <mapping pattern="broken_output" type="PLAIN_TEXT" />
