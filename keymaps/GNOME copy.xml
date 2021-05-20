@@ -10,6 +10,7 @@
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
+  <action id="ExpressionTypeInfo" />
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
   </action>
@@ -27,4 +28,7 @@
   <action id="ShowContent" />
   <action id="ShowSearchHistory" />
   <action id="UsageView.ShowRecentFindUsages" />
+  <action id="WrapTagAction">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
 </keymap>
