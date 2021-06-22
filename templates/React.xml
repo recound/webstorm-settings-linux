@@ -1,13 +1,20 @@
 <templateSet group="React">
-  <template name="rcc" value="import React, { PureComponent } from 'react';&#10;&#10;class $TM_FILENAME_BASE$ extends PureComponent {&#10;  render() {&#10;         return (&#10;                   &lt;div&gt;&#10;                                $END$&#10;&lt;/div&gt;&#10;                );&#10; }&#10;}&#10;&#10;export default $TM_FILENAME_BASE$;" description="Creates a React component class with ES6 module system" toReformat="true" toShortenFQNames="true">
+  <template name="rsc" value="import React, { PureComponent } from 'react';&#10;&#10;class $TM_FILENAME_BASE$ extends PureComponent {&#10;  render() {&#10;         return (&#10;                   &lt;div&gt;&#10;                                $END$&#10;&lt;/div&gt;&#10;                );&#10; }&#10;}&#10;&#10;export default $TM_FILENAME_BASE$;" description="Creates a React component class with ES6 module system" toReformat="true" toShortenFQNames="true">
     <variable name="TM_FILENAME_BASE" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="props" value="const { $PROPS$ } = this.props" description="Access component's props" toReformat="true" toShortenFQNames="true">
+  <template name="pps" value="const { $PROPS$ } = this.props" description="Access component's props" toReformat="true" toShortenFQNames="true">
     <variable name="PROPS" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
+    <context>
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
   </template>
   <template name="state" value="const { $END$ } = this.state" description="Access component's state" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="rcc" value="import React from 'react';&#10;&#10;const $TM_FILENAME_BASE$ = () =&gt; {&#10; return (&#10;  &lt;div&gt;&#10;   $END$&#10;  &lt;/div&gt;&#10; );&#10;};&#10;&#10;export default $TM_FILENAME_BASE$;" description="Creates a stateless React component without PropTypes and ES6 module system" toReformat="true" toShortenFQNames="true">
+    <variable name="TM_FILENAME_BASE" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context />
   </template>
 </templateSet>
