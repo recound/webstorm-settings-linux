@@ -32,6 +32,7 @@
   <action id="EslintImportCodeStyle">
     <keyboard-shortcut first-keystroke="shift meta semicolon" />
   </action>
+  <action id="ExternalSystem.ProjectRefreshAction" />
   <action id="FileChooser.GotoProject" />
   <action id="Git.CompareWithBranch">
     <keyboard-shortcut first-keystroke="ctrl meta c" />
@@ -44,6 +45,9 @@
   </action>
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
+  </action>
+  <action id="NewTypeScriptFile">
+    <keyboard-shortcut first-keystroke="shift meta i" />
   </action>
   <action id="NextDiff">
     <keyboard-shortcut first-keystroke="f7" />
