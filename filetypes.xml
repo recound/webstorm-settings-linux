@@ -5,11 +5,11 @@
       <mapping pattern="Caddyfile" type="AUTO_DETECTED" />
       <mapping pattern="thoughts" type="AUTO_DETECTED" />
       <mapping ext="deployment" type="Dockerfile" />
+      <mapping pattern="working_output" type="PLAIN_TEXT" />
       <mapping pattern="broken_output" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".languageChoice" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="working_output" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
