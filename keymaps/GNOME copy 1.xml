@@ -1,0 +1,11 @@
+<keymap version="1" name="GNOME copy 1" parent="Default for GNOME">
+  <action id="CallHierarchy" />
+  <action id="Git.CompareWithBranch">
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
+  <action id="IntroduceConstant" />
+  <action id="TodoViewGroupByFlattenPackage" />
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="ctrl alt h" />
+  </action>
+</keymap>
