@@ -1,9 +1,5 @@
 <application>
   <component name="UISettings">
-    <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
-    <option name="EDITOR_AA_TYPE" value="Greyscale" />
-    <option name="IDE_AA_TYPE" value="Greyscale" />
-    <option name="RECENT_FILES_LIMIT" value="15" />
-    <option name="RECENT_LOCATIONS_LIMIT" value="10" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
   </component>
 </application>
