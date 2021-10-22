@@ -5,23 +5,31 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="styles.ts" />
     <mask>*.properties</mask>
-    <mask>*.html</mask>
     <mask>*.jsp</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
-    <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.styl</mask>
     <mask>*.scss</mask>
     <mask>!*.log,!*.json,!*.lock,!*.svg,!*.html</mask>
     <mask>!*.log,!*.json,!*.lock</mask>
-    <mask>*.js</mask>
     <mask>*.ts,*.tsx</mask>
     <mask>*.spec.ts</mask>
-    <mask>*.ts</mask>
     <mask>*.test.tsx</mask>
+    <mask>*.xml</mask>
+    <mask>*.css</mask>
+    <mask>*.shtml</mask>
+    <mask>*.shtm</mask>
+    <mask>*.ng</mask>
+    <mask>*.htm</mask>
+    <mask>*.sht</mask>
+    <mask>*.html</mask>
+    <mask>*.ats</mask>
+    <mask>*.ts</mask>
+    <mask>*.cjs</mask>
+    <mask>*.js</mask>
     <mask>styles.ts</mask>
   </component>
 </application>
