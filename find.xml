@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="styles.ts" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -15,12 +16,11 @@
     <mask>*.ts,*.tsx</mask>
     <mask>*.spec.ts</mask>
     <mask>*.test.tsx</mask>
-    <mask>styles.ts</mask>
-    <mask>*.ng</mask>
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.shtml</mask>
     <mask>*.shtm</mask>
+    <mask>*.ng</mask>
     <mask>*.htm</mask>
     <mask>*.sht</mask>
     <mask>*.html</mask>
@@ -28,5 +28,6 @@
     <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
+    <mask>styles.ts</mask>
   </component>
 </application>
