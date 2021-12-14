@@ -11,6 +11,9 @@
   <action id="PinActiveTab">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
+  <action id="PrettierImportCodeStyleAction">
+    <keyboard-shortcut first-keystroke="shift meta 7" />
+  </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="ctrl meta h" />
   </action>
