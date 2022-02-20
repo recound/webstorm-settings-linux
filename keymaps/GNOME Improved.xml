@@ -1,1 +1,10 @@
-<keymap version="1" name="GNOME Improved" parent="Default for GNOME" />
+<keymap version="1" name="GNOME Improved" parent="Default for GNOME">
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+  </action>
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
+</keymap>
